@@ -17,6 +17,9 @@ Alternatively you can use the gradle wrapper like so:
 ./gradlew bootRun
 ```
 
+Endpoint can be triggered via swagger-ui or front end application
+
+`http://localhost:8080/swagger-ui/index.html`
 
 
 ## App limitations:
